@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588871580 source:c:\users\angelos\desktop\sxoli\domes dedomenwn\f5\a12f5\a12f5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588866787 source:c:\users\angelos\desktop\a12f5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
